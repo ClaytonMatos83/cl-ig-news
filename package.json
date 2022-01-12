@@ -1,0 +1,42 @@
+{
+  "name": "ignews",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "-": "^0.0.1",
+    "@stripe/stripe-js": "^1.18.0",
+    "@zeit/next-css": "^1.0.1",
+    "@zeit/next-preact": "^0.1.0",
+    "@zeit/next-sass": "^1.0.1",
+    "D": "^1.0.0",
+    "axios": "^0.21.4",
+    "faunadb": "^4.4.1",
+    "logs": "^1.5.10",
+    "next": "11.1.2",
+    "next-auth": "^3.29.0",
+    "next-js": "^0.9.0-alpha",
+    "next-transpile-modules": "^8.0.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-icons": "^4.2.0",
+    "sass": "^1.39.2",
+    "stripe": "^8.174.0",
+    "tails": "^0.0.1",
+    "upgrade": "^1.1.0"
+  },
+  "devDependencies": {
+    "@types/next-auth": "^3.15.0",
+    "@types/node": "^16.9.1",
+    "@types/react": "^17.0.20",
+    "@zeit/next-source-maps": "^0.0.3",
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.1.2",
+    "typescript": "^4.4.2"
+  }
+}
